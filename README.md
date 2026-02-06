@@ -1,0 +1,1 @@
+The purpose of this repository is to help me learn about merge, clone, fork, and pull requests in git.
